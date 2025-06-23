@@ -1,0 +1,6 @@
+This is my demo repository
+make a user Auth modeule
+-Registration (working on this feature) (add this in feature1 branch)
+-Login
+-Logout
+-Forgot password
