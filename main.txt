@@ -1,6 +1,6 @@
 This is my demo repository
 make a user Auth modeule
--Registration (Developed this feature) (add this in feature1 branch)
+-Registration(feature1)
 -Login
 -Logout
 -Forgot password
