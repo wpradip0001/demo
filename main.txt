@@ -1,0 +1,6 @@
+This is my demo repository
+make a user Auth modeule
+-Registration
+-Login
+-Logout
+-Forgot password
